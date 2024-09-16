@@ -126,6 +126,9 @@ section {
     margin-right: 5px;
 
 } */
+.hero-img {
+ text-align: center;
+}
 .hero-img img {
     width: 400px;
     height: auto;
